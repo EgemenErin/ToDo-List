@@ -43,8 +43,8 @@ A practical web application built with Node.js, Express, and MySQL for you to re
 ### Clone the Repository
 
 ```sh
-$ git clone https://github.com/smallpaes/todo-list.git
-$ cd todo-list
+$ git clone https://github.com/EgemenErin/ToDo-List
+$ cd ToDo-List
 
 Setup Database
 
